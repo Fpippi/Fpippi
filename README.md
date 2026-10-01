@@ -13,9 +13,7 @@
 Full Stack Developer with ~3.5 years of experience, focused on backend development and REST APIs with **.NET Core**, relational and NoSQL database design, and **Microsoft Azure** cloud services. I also work on front-ends with **Blazor**, microservice architectures and DevOps / CI-CD practices. Passionate about IT on both the software and the hardware side.
 
 - 💼 Full Stack Developer .NET @ **JASPIT S.r.l.** (2023 – present)
-- 🔭 Recent projects: ZTL permit management for a public administration, an Azure-based survey platform, a scheduled workflow engine, a booking platform
 - 🎓 Diploma in IT & Telecommunications · Cisco CCNA – Introduction to Networks
-- 🌍 Italian (native), English (B1)
 
 ## 💻 Tech Stack
 <p align="center">
