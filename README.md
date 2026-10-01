@@ -1,21 +1,61 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=FFD21F&text=Francesco%20Pippi&fontColor=1a1a1a&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Developer%20.NET&descAlignY=58&descSize=20" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.linkedin.com/in/francesco-pippi-1930661b8/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francesco-pippi-1930661b8/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22568563/pippobest) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=REST+APIs+with+.NET+Core;Blazor+front-ends;Microservices+on+Azure;CI%2FCD+and+automated+testing&center=true&width=500&color=FFD21F&font=Fira+Code"/>
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Fpippi&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Fpippi&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fpippi&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/francesco-pippi-1930661b8/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/22568563/pippobest"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 👨‍💻 About me
+Full Stack Developer with ~3.5 years of experience, focused on backend development and REST APIs with **.NET Core**, relational and NoSQL database design, and **Microsoft Azure** cloud services. I also work on front-ends with **Blazor**, microservice architectures and DevOps / CI-CD practices. Passionate about IT on both the software and the hardware side.
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+- 💼 Full Stack Developer .NET @ **JASPIT S.r.l.** (2023 – present)
+- 🔭 Recent projects: ZTL permit management for a public administration, an Azure-based survey platform, a scheduled workflow engine, a booking platform
+- 🎓 Diploma in IT & Telecommunications · Cisco CCNA – Introduction to Networks
+- 🌍 Italian (native), English (B1)
 
----
-[![](https://visitcount.itsvg.in/api?id=Fpippi&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,c,js,php,dotnet,html,css,bootstrap&perline=8"/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,azure,git,githubactions,postman,visualstudio&perline=8"/><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,unity,blender,ps&perline=8"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NUnit%20%7C%20xUnit-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fpippi&show_icons=true&include_all_commits=true&hide_border=true&bg_color=1a1a1a&title_color=FFD21F&icon_color=FFD21F&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fpippi&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=FFD21F&text_color=ffffff" height="165"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Fpippi&hide_border=true&background=1a1a1a&ring=FFD21F&fire=FFD21F&currStrNum=FFD21F&currStrLabel=FFD21F&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&stroke=444444"/>
+</p>
+
+## 🐍 Contributions
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fpippi/Fpippi/output/github-snake-dark.svg"/>
+    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Fpippi/Fpippi/output/github-snake.svg"/>
+  </picture>
+</p>
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fpippi&label=Profile%20views&color=FFD21F&style=for-the-badge"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=FFD21F" width="100%"/>
